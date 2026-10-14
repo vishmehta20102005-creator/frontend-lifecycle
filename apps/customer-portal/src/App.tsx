@@ -10,7 +10,7 @@ function App() {
       <Button onClick={() => {
         alert(formatCurrency(1000));
       }} />
-      <div>Something</div>
+      <div>Something new</div>
     </>
   )
 }
